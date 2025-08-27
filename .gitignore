@@ -31,3 +31,6 @@ env/
 
 
 
+src/textures/smile_trained.npy
+src/textures/smile_canny.npy
+src/textures/smile.npy
